@@ -1,0 +1,63 @@
+ 
+  h1{
+      margin-left:  0px ;
+      padding: 5px;
+      background: lightblue;
+      border:solid
+      
+  }
+  
+  
+   .main{
+       display: flex;
+       flex-wrap: wrap;
+       justify-content: space-between;
+   }
+    .Text{
+    background-color: rgb(231, 15, 177);
+    
+}
+
+
+.main{
+    display:flex;
+     justify-content: space-between;
+     
+     padding: 10px;
+     font-size: 20px;
+     font-family: sans-serif;
+     font-weight: 400;
+     color: #000000;
+}
+
+body{
+    
+    background-color: teal;
+}
+a:link{
+  color:red  
+
+}
+a:visited{
+    color:rgb(255, 0, 0);
+}
+/*.main{
+    position: relative;
+
+}
+.i2 a{
+    position: absolute;
+}*/
+.i2{
+    border: solid;
+    
+}
+.i2:hover img{
+    opacity:0.33
+}
+.i2 p{
+    position: relative;
+}
+
+
+    
